@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 62514bf7841007b4a85ddcb1c36a7f5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3313967656639478657
+    second: Enemy_Lower_Getting_Parried_0
+  - first:
+      213: -6196457862693396064
+    second: Enemy_Lower_Getting_Parried_1
+  - first:
+      213: -8359212247398385044
+    second: Enemy_Lower_Getting_Parried_2
+  - first:
+      213: 8185929985729769887
+    second: Enemy_Lower_Getting_Parried_3
+  - first:
+      213: -909136422155892056
+    second: Enemy_Lower_Getting_Parried_4
+  - first:
+      213: 5924696299291420010
+    second: Enemy_Lower_Getting_Parried_5
+  - first:
+      213: -2303718054456895757
+    second: Enemy_Lower_Getting_Parried_6
+  - first:
+      213: 7613239681428875331
+    second: Enemy_Lower_Getting_Parried_7
+  - first:
+      213: -5391237028317936824
+    second: Enemy_Lower_Getting_Parried_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Lower_Getting_Parried_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74ced479fb6202d0800000000000000
+      internalID: -3313967656639478657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Lower_Getting_Parried_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 140
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1eb747762c10aa0800000000000000
+      internalID: -6196457862693396064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Lower_Getting_Parried_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 140
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a79bfffbc1efb80800000000000000
+      internalID: -8359212247398385044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Lower_Getting_Parried_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 140
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9134ab73f34a9170800000000000000
+      internalID: 8185929985729769887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Lower_Getting_Parried_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 140
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa4709ad391263f0800000000000000
+      internalID: -909136422155892056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Lower_Getting_Parried_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 140
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a652651d4efb83250800000000000000
+      internalID: 5924696299291420010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Lower_Getting_Parried_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 140
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6517592ac8700e0800000000000000
+      internalID: -2303718054456895757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Lower_Getting_Parried_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 140
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348e9715729a7a960800000000000000
+      internalID: 7613239681428875331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Lower_Getting_Parried_8
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 140
+        height: 80
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8434d2b9c7a7e25b0800000000000000
+      internalID: -5391237028317936824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bc87ec5aa689d354ab63d3df1cd0f05f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy_Lower_Getting_Parried_0: -3313967656639478657
+      Enemy_Lower_Getting_Parried_1: -6196457862693396064
+      Enemy_Lower_Getting_Parried_2: -8359212247398385044
+      Enemy_Lower_Getting_Parried_3: 8185929985729769887
+      Enemy_Lower_Getting_Parried_4: -909136422155892056
+      Enemy_Lower_Getting_Parried_5: 5924696299291420010
+      Enemy_Lower_Getting_Parried_6: -2303718054456895757
+      Enemy_Lower_Getting_Parried_7: 7613239681428875331
+      Enemy_Lower_Getting_Parried_8: -5391237028317936824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

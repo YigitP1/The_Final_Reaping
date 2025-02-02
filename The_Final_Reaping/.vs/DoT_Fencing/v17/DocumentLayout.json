@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|c:\\users\\berka\\onedrive\\masa\u00FCst\u00FC\\dot_fencing\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\assets\\scripts\\hitdetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EE5C91-B74F-5934-029F-51F2EB1E75AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hitdetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwFMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:54:05.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\Score.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJUSURBVDhP3ZLNT9pwGMd/bSnyIoUiCihhgi5B3HRyIDO4yGFLRtySXbaDp11318Muy1z8B3Z0MTsbLx6WHbYQFF8yJAq4jTQKanGDuorteCm0hbaji7vtH9g\u002Bv\u002BQ5PG95vs/zA/8\u002BkGoURUE2shue1S\u002BraKKQAGLnucyuJgqj9NKDJZCkk30rmRXgs/h\u002BzgRmrPPv5uF4X/wUPAGSplMM7eR3goVqYUECks2NuwEMw8Cit3z2Wr3LJbGEUVXqaZWvIkeVo/X\u002Bs/4IL/DaIWLoxbFynEBGH49qK7XK21g\u002BdsdusveMD4xX/Ha/4MSclN/mpwRFCCW/JR8S58Qg02CsQksIkizpboN2ayw2FtVsnW1BUA26qUoJuAKbA\u002BaBZUmWSnSDrplxM6OTdLrhnuEI8YPQ4Dp8d8o7NXR4cagTeOF9HMRlTS6XA7zCg5AnxJpQ05ugJ/ihI4FTG5bLZYysk7/3pKIABZJlGVI3p7QVWPXBeZAHoiyqQT5FpYg/xSoIgljZBjtCMqSV4RhLZ/Tx/eJ\u002BNydwBhmSw9NgGtZErkdAk22CU\u002Ba0Czfgt9ZSa7ge1YNyrVwjaIIxd5l3HSaHFzNgsFFr/OTr84npUhptiI2PqgRk7vkc4jA67uUv8h5Ug95AEfRuU2ze50RukKySX8PucLreqh\u002BcMCebE46JxOS1yb3ts\u002B11jMP2CgsFCVLPGCWit7NU9lXme8bWORcw6oygt7v3wIAYXi8\u002BWkxfKforMARBCjvCJp0W57POP5gtssVZqk7NXoqXL2mYPrzK\u002B38B4Bf/MBnkhZfSsQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-20T09:54:05.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HitDetection.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\HitDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HitDetection.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\HitDetection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HitDetection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJUSURBVDhP3ZLNT9pwGMd/bSnyIoUiCihhgi5B3HRyIDO4yGFLRtySXbaDp11318Muy1z8B3Z0MTsbLx6WHbYQFF8yJAq4jTQKanGDuorteCm0hbaji7vtH9g\u002Bv\u002BQ5PG95vs/zA/8\u002BkGoURUE2shue1S\u002BraKKQAGLnucyuJgqj9NKDJZCkk30rmRXgs/h\u002BzgRmrPPv5uF4X/wUPAGSplMM7eR3goVqYUECks2NuwEMw8Cit3z2Wr3LJbGEUVXqaZWvIkeVo/X\u002Bs/4IL/DaIWLoxbFynEBGH49qK7XK21g\u002BdsdusveMD4xX/Ha/4MSclN/mpwRFCCW/JR8S58Qg02CsQksIkizpboN2ayw2FtVsnW1BUA26qUoJuAKbA\u002BaBZUmWSnSDrplxM6OTdLrhnuEI8YPQ4Dp8d8o7NXR4cagTeOF9HMRlTS6XA7zCg5AnxJpQ05ugJ/ihI4FTG5bLZYysk7/3pKIABZJlGVI3p7QVWPXBeZAHoiyqQT5FpYg/xSoIgljZBjtCMqSV4RhLZ/Tx/eJ\u002BNydwBhmSw9NgGtZErkdAk22CU\u002Ba0Czfgt9ZSa7ge1YNyrVwjaIIxd5l3HSaHFzNgsFFr/OTr84npUhptiI2PqgRk7vkc4jA67uUv8h5Ug95AEfRuU2ze50RukKySX8PucLreqh\u002BcMCebE46JxOS1yb3ts\u002B11jMP2CgsFCVLPGCWit7NU9lXme8bWORcw6oygt7v3wIAYXi8\u002BWkxfKforMARBCjvCJp0W57POP5gtssVZqk7NXoqXL2mYPrzK\u002B38B4Bf/MBnkhZfSsQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-20T09:54:05.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwDEAAAAxAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJUSURBVDhP3ZLNT9pwGMd/bSnyIoUiCihhgi5B3HRyIDO4yGFLRtySXbaDp11318Muy1z8B3Z0MTsbLx6WHbYQFF8yJAq4jTQKanGDuorteCm0hbaji7vtH9g\u002Bv\u002BQ5PG95vs/zA/8\u002BkGoURUE2shue1S\u002BraKKQAGLnucyuJgqj9NKDJZCkk30rmRXgs/h\u002BzgRmrPPv5uF4X/wUPAGSplMM7eR3goVqYUECks2NuwEMw8Cit3z2Wr3LJbGEUVXqaZWvIkeVo/X\u002Bs/4IL/DaIWLoxbFynEBGH49qK7XK21g\u002BdsdusveMD4xX/Ha/4MSclN/mpwRFCCW/JR8S58Qg02CsQksIkizpboN2ayw2FtVsnW1BUA26qUoJuAKbA\u002BaBZUmWSnSDrplxM6OTdLrhnuEI8YPQ4Dp8d8o7NXR4cagTeOF9HMRlTS6XA7zCg5AnxJpQ05ugJ/ihI4FTG5bLZYysk7/3pKIABZJlGVI3p7QVWPXBeZAHoiyqQT5FpYg/xSoIgljZBjtCMqSV4RhLZ/Tx/eJ\u002BNydwBhmSw9NgGtZErkdAk22CU\u002Ba0Czfgt9ZSa7ge1YNyrVwjaIIxd5l3HSaHFzNgsFFr/OTr84npUhptiI2PqgRk7vkc4jA67uUv8h5Ug95AEfRuU2ze50RukKySX8PucLreqh\u002BcMCebE46JxOS1yb3ts\u002B11jMP2CgsFCVLPGCWit7NU9lXme8bWORcw6oygt7v3wIAYXi8\u002BWkxfKforMARBCjvCJp0W57POP5gtssVZqk7NXoqXL2mYPrzK\u002B38B4Bf/MBnkhZfSsQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-20T09:54:05.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\berka\\OneDrive\\Masa\u00FCst\u00FC\\DoT_Fencing\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAABkBAAAAAAAAAAAAAA8BAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:54:05.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

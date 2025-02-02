@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 040484e3c70259343b90af2cce14003c
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: cea8b73fa50bac740a1d2c2a03531a0c
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/PvP_Mode.unity
+    guid: ba8b030ce70a42e42987906b0da8ef1a
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 2f460301dd8ca5e4d915296d0664a006
+  - enabled: 1
+    path: Assets/Scenes/Stage_1.unity
+    guid: f9bfb4d9ae00f6647a2be74e3a8b4555
+  - enabled: 1
+    path: Assets/Scenes/Stage_2.unity
+    guid: 292aa7b53c8fd2a4aae104e468519dbb
+  - enabled: 1
+    path: Assets/Scenes/Stage_3.unity
+    guid: 486286fabe085224c90a1ebe629d27b8
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 8c8922e9a931aed47ae0eefddc22e256
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
